@@ -7,6 +7,6 @@ Also Also the cool part is I have implemented a DARK/LIGHT THEME 💙💛/ 💗�
 uwuwuwuwuwuuwuwuwuwuwuuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu
 
 also deployed and hosted on Netlify 💃💃 
-[My PortFolio]: https://arpanarit.netlify.app/
-Checkout [My PortFolio]
+[[My PortFolio]: https://arpanarit.netlify.app/
+Checkout [My PortFolio]](https://arpanarit.netlify.app/)https://arpanarit.netlify.app/
 
